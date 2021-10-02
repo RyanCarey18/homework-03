@@ -10,5 +10,3 @@ Once you select though all of the options it generates a password at the desired
 
 Click [here](https://ryancarey18.github.io/homework-03/) to go to my Github page
 
-Screenshot of deployed page here
-
